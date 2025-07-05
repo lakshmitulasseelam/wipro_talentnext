@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;OddEven.java&apos; to &apos;jfun.EvenNumbers.java&apos;&#x0D;&#x0A;- Original project: &apos;Question 5&apos;&#x0D;&#x0A;- Destination element: &apos;jfun.EvenNumbers.java&apos;&#x0D;&#x0A;- Original element: &apos;OddEven.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=JavaFundamentals/src&lt;jfun{EvenNumbers.java" element1="/src&lt;{OddEven.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1751694403446" units="1" version="1.0"/>
+</session>
